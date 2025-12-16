@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/robinskiii">Robin</a>! 👋</h1>
+  <h1>Hi there, I'm Robin</a>! 👋</h1>
   
   <h3>Maths BSc Student @<a href="https://www.epfl.ch/en/">EPFL</a></h3>
 
@@ -13,7 +13,7 @@
     <a href="mailto:your.email@epfl.ch">
       <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/your-profile">
+    <a href="www.linkedin.com/in/robin-sanders-410633356">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
