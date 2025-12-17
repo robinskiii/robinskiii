@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Robin</a>! 👋</h1>
+  <h1>Hey, I'm Robin</a>! </h1>
   
   <h3>Maths BSc Student @<a href="https://www.epfl.ch/en/">EPFL</a></h3>
 
