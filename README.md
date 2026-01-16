@@ -27,8 +27,8 @@
 
 - **I’m currently studying:** Bachelor in Mathematics at **EPFL** (Lausanne).
 - **My main focus:** Applying mathematical rigour to computer science, specifically in **AI Models** and **Algorithm Design**.
-- **I love writing:** C++ for speed, Python for data.
-- **I’m currently learning:** Deep Learning architectures and optimization theory.
+- **I love writing:** Python for efficiency, C++ for more specific tasks.
+- **I’m currently learning:** Supervised and Unsupervised machine learning algorithms.
 
 ---
 
