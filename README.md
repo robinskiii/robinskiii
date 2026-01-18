@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="mailto:your.email@epfl.ch">
+    <a href="mailto:robin.sanders@epfl.ch">
       <img src="https://img.shields.io/badge/Email-Me-orange?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="www.linkedin.com/in/robin-sanders-410633356">
